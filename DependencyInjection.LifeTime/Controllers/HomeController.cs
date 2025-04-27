@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace DependencyInjection.LifeTime.Controllers
 {
-    public class HomeController : Controller
+    public unsafe class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
         private readonly ISingleton _singleton1;
@@ -20,7 +20,7 @@ namespace DependencyInjection.LifeTime.Controllers
             ITransient transient1, ITransient transient2, IScoped scoped1, IScoped scoped2)
         {
             _logger = logger;
-            _singleton1 = singleton1;
+            _singleton1 =  singleton1;
             _singleton2 = singleton2;
             _scoped1 = scoped1;
             _scoped2 = scoped2;
@@ -39,12 +39,12 @@ namespace DependencyInjection.LifeTime.Controllers
             Console.WriteLine("\n\n");
             Console.WriteLine($"scoped-1 : {_scoped1.GetGuId()}");
             Console.WriteLine($"scoped-2 : {_scoped2.GetGuId()}");
-            
+
             return View();
         }
 
         public IActionResult Privacy()
-        {
+        {          
             return View();
         }
 
