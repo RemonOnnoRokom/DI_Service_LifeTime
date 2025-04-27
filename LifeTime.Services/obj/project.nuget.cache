@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "maaYhHWbpEI=",
+  "dgSpecHash": "B57tfKMEWbw=",
   "success": true,
-  "projectFilePath": "C:\\Working Directory\\LifeTime.Services\\LifeTime.Services.csproj",
+  "projectFilePath": "C:\\Working Directory\\DependencyInjection\\LifeTime.Services\\LifeTime.Services.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

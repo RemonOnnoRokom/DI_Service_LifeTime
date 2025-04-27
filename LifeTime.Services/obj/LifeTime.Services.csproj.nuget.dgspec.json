@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Working Directory\\LifeTime.Services\\LifeTime.Services.csproj": {}
+    "C:\\Working Directory\\DependencyInjection\\LifeTime.Services\\LifeTime.Services.csproj": {}
   },
   "projects": {
-    "C:\\Working Directory\\LifeTime.Services\\LifeTime.Services.csproj": {
+    "C:\\Working Directory\\DependencyInjection\\LifeTime.Services\\LifeTime.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Working Directory\\LifeTime.Services\\LifeTime.Services.csproj",
+        "projectUniqueName": "C:\\Working Directory\\DependencyInjection\\LifeTime.Services\\LifeTime.Services.csproj",
         "projectName": "LifeTime.Services",
-        "projectPath": "C:\\Working Directory\\LifeTime.Services\\LifeTime.Services.csproj",
+        "projectPath": "C:\\Working Directory\\DependencyInjection\\LifeTime.Services\\LifeTime.Services.csproj",
         "packagesPath": "C:\\Users\\OPL-PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Working Directory\\LifeTime.Services\\obj\\",
+        "outputPath": "C:\\Working Directory\\DependencyInjection\\LifeTime.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

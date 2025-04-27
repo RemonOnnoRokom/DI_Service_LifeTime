@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LifeTime.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21f2c395de10d4256d36a595ba20e68b54375b7e")]
 [assembly: System.Reflection.AssemblyProductAttribute("LifeTime.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LifeTime.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
