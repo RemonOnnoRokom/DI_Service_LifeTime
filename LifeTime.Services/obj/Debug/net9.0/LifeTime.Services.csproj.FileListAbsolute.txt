@@ -1,0 +1,11 @@
+C:\Working Directory\LifeTime.Services\bin\Debug\net9.0\LifeTime.Services.deps.json
+C:\Working Directory\LifeTime.Services\bin\Debug\net9.0\LifeTime.Services.dll
+C:\Working Directory\LifeTime.Services\bin\Debug\net9.0\LifeTime.Services.pdb
+C:\Working Directory\LifeTime.Services\obj\Debug\net9.0\LifeTime.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Working Directory\LifeTime.Services\obj\Debug\net9.0\LifeTime.Services.AssemblyInfoInputs.cache
+C:\Working Directory\LifeTime.Services\obj\Debug\net9.0\LifeTime.Services.AssemblyInfo.cs
+C:\Working Directory\LifeTime.Services\obj\Debug\net9.0\LifeTime.Services.csproj.CoreCompileInputs.cache
+C:\Working Directory\LifeTime.Services\obj\Debug\net9.0\LifeTime.Services.dll
+C:\Working Directory\LifeTime.Services\obj\Debug\net9.0\refint\LifeTime.Services.dll
+C:\Working Directory\LifeTime.Services\obj\Debug\net9.0\LifeTime.Services.pdb
+C:\Working Directory\LifeTime.Services\obj\Debug\net9.0\ref\LifeTime.Services.dll
